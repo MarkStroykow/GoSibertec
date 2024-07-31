@@ -1,0 +1,653 @@
+INFO	2024/07/10 10:20:00 17.2
+3 4.5 6.7]
+INFO	2024/07/10 10:20:55 [1 2 3 4.5 6.7]
+INFO	2024/07/10 10:20:55 17.2
+INFO	2024/07/10 10:20:59 [1 2 3 4.5 6.7]
+INFO	2024/07/10 10:20:59 17.2
+INFO	2024/07/10 10:22:08 json: cannot unmarshal string into Go value of type float64
+INFO	2024/07/10 10:22:08 0
+2024/07/10 10:22:57 json: cannot unmarshal string into Go value of type float64
+2024/07/10 10:22:57 0
+2024/07/10 10:23:11 [1 2 3 4.5 123]
+2024/07/10 10:23:11 133.5
+2024/07/10 10:23:27 open text1.json: The system cannot find the file specified.
+2024/07/10 10:23:27 0
+2024/07/10 10:23:38 open text1.json: The system cannot find the file specified.
+2024/07/10 10:23:38 0
+2024/07/10 10:25:29 [1 2 3 4.5 123]
+2024/07/10 10:25:30 133.5
+2024/07/10 10:26:58 Чиселки [1 2 3 4.5 123]
+2024/07/10 10:26:58 133.5
+2024/07/10 10:28:27 Чиселки [1 2 3 4.5 123]
+2024/07/10 10:28:28 Sum [1 2 3 4.5 123]
+2024/07/10 10:28:44 Nums [1 2 3 4.5 123]
+2024/07/10 10:28:44 Sum [1 2 3 4.5 123]
+2024/07/10 10:28:59 Nums [1 2 3 4.5 123]
+2024/07/10 10:28:59 Sum 133.5
+2024/07/10 10:29:45 json: cannot unmarshal string into Go value of type float64
+2024/07/10 10:29:45 Sum 0
+2024/07/10 10:33:02 json: cannot unmarshal string into Go value of type float64
+2024/07/10 10:33:02 Sum 0
+2024/07/10 10:33:05 json: cannot unmarshal string into Go value of type float64
+2024/07/10 10:33:13 json: cannot unmarshal string into Go value of type float64
+2024/07/10 10:33:30 Nums [1 2 3 4.5 23]
+2024/07/10 10:33:30 Sum 33.5
+2024/07/10 10:35:34 Nums [1 2 3 4.5 23]
+2024/07/10 10:35:34 Sum 33.5
+2024/07/10 10:35:44 text.json invalid character '`' looking for beginning of value
+2024/07/10 10:36:29 text.json open tet.json: The system cannot find the file specified.
+2024/07/10 10:38:04 Can't read invalid character '`' looking for beginning of value
+2024/07/10 10:38:40 Can't read JSON: invalid character '`' looking for beginning of value
+2024/07/10 10:38:49 Nums [1 2 3 4.5 23]
+2024/07/10 10:38:49 Sum 33.5
+2024/07/10 10:42:48 Nums [1 2 3 4.5 23]
+2024/07/10 10:42:48 Sum 33.5
+2024/07/10 10:42:48  Get https://www.youtube.com 200
+2024/07/10 10:43:04 Nums [1 2 3 4.5 23]
+2024/07/10 10:43:04 Sum 33.5
+2024/07/10 10:43:04 Error Get "https://www.youtbe.com": dial tcp: lookup www.youtbe.com: no such host
+2024/07/10 10:43:31 Nums [1 2 3 4.5 23]
+2024/07/10 10:43:31 Sum 33.5
+2024/07/10 10:44:03 Nums [1 2 3 4.5 23]
+2024/07/10 10:44:03 Sum 33.5
+2024/07/10 10:44:03 204 Error Get "https://www.youtbe.com": dial tcp: lookup www.youtbe.com: no such host
+2024/07/10 10:44:56 Nums [1 2 3 4.5 23]
+2024/07/10 10:44:56 Sum 33.5
+2024/07/10 10:44:56 404 Error Get "https://www.youtbe.com": dial tcp: lookup www.youtbe.com: no such host
+2024/07/10 10:45:41 Nums [1 2 3 4.5 23]
+2024/07/10 10:45:41 Sum 33.5
+2024/07/10 10:45:41 Error Get "https://www.youtbe.com": dial tcp: lookup www.youtbe.com: no such host
+2024/07/10 10:45:57 Nums [1 2 3 4.5 23]
+2024/07/10 10:45:57 Sum 33.5
+2024/07/10 10:45:57 Get https://www.youtube.com 200
+2024/07/10 10:47:48 Nums [1 2 3 4.5 23]
+2024/07/10 10:47:48 Sum 33.5
+2024/07/10 10:47:48 Get https://www.youtube.com 200
+2024/07/10 10:48:55 Nums [1 2 3 4.5 23]
+2024/07/10 10:48:55 Sum 33.5
+2024/07/10 10:48:55 Get https://www.youtube.com 200
+2024/07/10 10:49:09 Can't read JSON: invalid character '`' looking for beginning of value
+2024/07/10 10:49:20 Can't read JSON: json: cannot unmarshal string into Go value of type float64
+2024/07/10 10:51:55 Start
+2024/07/10 10:51:55 Nums [1 2 3 4.5 23]
+2024/07/10 10:51:55 Sum 33.5
+2024/07/10 10:51:55 Get https://www.youtube.com 200
+2024/07/10 10:52:12 Start
+2024/07/10 10:52:12 Nums [1 2 3 4.5 23]
+2024/07/10 10:52:12 Sum 33.5
+2024/07/10 10:52:12 Get https://www.youtube.com 200
+2024/07/10 10:52:12 End
+2024/07/10 10:52:21 Start
+2024/07/10 10:52:21 Nums [1 2 3 4.5 23]
+2024/07/10 10:52:21 Sum 33.5
+2024/07/10 10:52:21 Get https://www.youtube.com 200
+2024/07/10 10:52:21 Exit
+2024/07/10 10:52:38 Start
+2024/07/10 10:52:38 Nums [1 2 3 4.5 23]
+2024/07/10 10:52:38 Sum 33.5
+2024/07/10 10:52:39 Get https://www.youtube.com 200
+2024/07/10 10:52:39 Exit
+2024/07/10 10:53:08 Start
+2024/07/10 10:53:09 Nums [1 2 3 4.5 23]
+2024/07/10 10:53:09 Sum 33.5
+2024/07/10 10:53:09 Get https://www.youtube.com 200
+2024/07/10 10:53:09 Exit
+2024/07/10 10:53:13 Start
+2024/07/10 10:53:13 Nums [1 2 3 4.5 23]
+2024/07/10 10:53:13 Sum 33.5
+2024/07/10 10:53:13 Get https://www.youtube.com 200
+2024/07/10 10:53:13 Exit
+2024/07/10 10:56:35 Start
+2024/07/10 10:56:35 Nums [1 2 3 4.5 23]
+2024/07/10 10:56:35 Sum 33.5
+2024/07/10 10:56:35 Get https://www.youtube.com 200
+2024/07/10 10:56:35 Exit
+2024/07/10 10:57:17 Start
+2024/07/10 10:57:17 Nums [1 2 3 4.5 23]
+2024/07/10 10:57:17 Sum 33.5
+2024/07/10 10:57:17 Get https://www.youtube.com 200
+2024/07/10 10:57:17 Exit
+2024/07/10 10:57:50 
+2024/07/10 10:57:50 Nums [1 2 3 4.5 23]
+2024/07/10 10:57:50 Sum 33.5
+2024/07/10 10:57:50 Get https://www.youtube.com 200
+2024/07/10 11:06:43 
+2024/07/10 11:06:43 Nums [1 2 3 4.5 23]
+2024/07/10 11:06:43 Sum 33.5
+2024/07/10 11:06:43 Get https://www.youtube.com 200
+2024/07/10 11:06:49 
+2024/07/10 11:06:49 Nums [1 2 3 4.5 23]
+2024/07/10 11:06:49 Sum 33.5
+2024/07/10 11:06:49 Non-200 Get "https://www.youtub.com": dial tcp: lookup www.youtub.com: no such host
+2024/07/10 11:06:59 
+2024/07/10 11:06:59 Nums [1 2 3 4.5 23]
+2024/07/10 11:06:59 Sum 33.5
+2024/07/10 11:06:59 Get https://www.youtube.com 200
+2024/07/10 11:10:39 
+2024/07/10 11:10:39 Nums [1 2 3 4.5 23]
+2024/07/10 11:10:39 Sum 33.5
+2024/07/10 11:10:39 Get https://www.youtube.com 200
+2024/07/10 11:22:40 
+2024/07/10 11:22:40 Nums [1 2 3 4.5 23]
+2024/07/10 11:22:40 Sum 33.5
+2024/07/10 11:22:40 Get https://www.youtube.com 200
+2024/07/10 11:22:44 
+2024/07/10 11:22:44 Nums [1 2 3 4.5 23]
+2024/07/10 11:22:44 Sum 33.5
+2024/07/10 11:22:44 Get https://www.youtube.com 200
+2024/07/10 12:05:51 
+2024/07/10 12:05:51 Nums [1 2 3 4.5 23]
+2024/07/10 12:05:51 Sum 33.5
+2024/07/10 12:05:51 Get https://www.youtube.com 200
+2024/07/10 12:05:56 
+2024/07/10 12:05:56 Nums [1 2 3 4.5 23]
+2024/07/10 12:05:56 Sum 33.5
+2024/07/10 12:05:56 Get https://www.youtube.com 200
+2024/07/10 12:06:09 
+2024/07/10 12:06:10 Nums [1 2 3 4.5 23]
+2024/07/10 12:06:10 Sum 33.5
+2024/07/10 12:06:10 Get https://www.youtube.com 200
+2024/07/10 12:06:15 
+2024/07/10 12:06:15 Nums [1 2 3 4.5 23]
+2024/07/10 12:06:15 Sum 33.5
+2024/07/10 12:06:15 Get https://www.youtube.com 200
+2024/07/10 12:08:26 
+2024/07/10 12:08:26 Nums [1 2 3 4.5 23]
+2024/07/10 12:08:26 Sum 33.5
+2024/07/10 12:08:27 Get https://www.youtube.com 200
+2024/07/10 12:08:30 
+2024/07/10 12:08:30 Nums [1 2 3 4.5 23]
+2024/07/10 12:08:30 Sum 33.5
+2024/07/10 12:08:30 Get https://www.youtube.com 200
+2024/07/10 12:09:32 
+2024/07/10 12:09:32 Nums [1 2 3 4.5 23]
+2024/07/10 12:09:32 Sum 33.5
+2024/07/10 12:09:32 Get https://www.youtube.com 200
+2024/07/10 12:09:36 
+2024/07/10 12:09:36 Nums [1 2 3 4.5 23]
+2024/07/10 12:09:36 Sum 33.5
+2024/07/10 12:09:36 Get https://www.youtube.com 200
+2024/07/10 12:13:24 
+2024/07/10 12:13:24 Nums [1 2 3 4.5 23]
+2024/07/10 12:13:24 Sum 33.5
+2024/07/10 12:13:24 Get https://www.youtube.com 200
+2024/07/10 13:23:55 
+2024/07/10 13:24:02 Can't read JSON: unexpected end of JSON input
+2024/07/10 13:24:08 
+2024/07/10 13:24:13 Nums [1 2 3 4.5 23]
+2024/07/10 13:24:13 Sum 33.5
+2024/07/10 13:24:13 Get https://www.youtube.com 200
+2024/07/10 13:24:22 
+2024/07/10 13:25:40 
+2024/07/10 13:31:09 
+2024/07/10 13:31:28 Nums [1 2 3 4.5 23]
+2024/07/10 13:31:28 Sum 33.5
+2024/07/10 13:31:28 Get https://www.youtube.com 200
+2024/07/10 16:08:35 
+2024/07/11 00:11:30 
+2024/07/11 00:11:40 Can't read JSON: unexpected end of JSON input
+2024/07/11 00:13:19 
+2024/07/11 00:13:19 Can't read JSON: unexpected end of JSON input
+2024/07/11 00:13:39 
+2024/07/11 00:13:39 Can't read JSON: invalid type: stdi
+2024/07/11 00:14:19 
+2024/07/11 00:14:19 Can't read. unexpected end of JSON input
+2024/07/11 00:14:58 
+2024/07/11 00:14:58 Can't read. unexpected end of JSON input
+2024/07/11 00:15:04 
+2024/07/11 00:15:04 Can't read. unexpected end of JSON input
+2024/07/11 00:15:59 
+2024/07/11 00:15:59 Can't read. unexpected end of JSON input
+2024/07/11 00:16:02 
+2024/07/11 00:16:02 Can't read. unexpected end of JSON input
+2024/07/11 00:17:18 
+2024/07/11 00:17:18 Can't read. invalid type: stdi
+2024/07/11 00:17:29 
+2024/07/11 00:17:29 Can't read. unexpected end of JSON input
+2024/07/11 00:18:23 
+2024/07/11 00:18:27 Can't read. invalid character '1' after top-level value
+2024/07/11 00:20:45 
+2024/07/11 00:20:49 Can't read. json: cannot unmarshal number into Go value of type []float64
+2024/07/11 00:21:33 
+2024/07/11 00:21:39 Can't read. json: cannot unmarshal number into Go value of type []float64
+2024/07/11 00:21:49 
+2024/07/11 00:22:13 Can't read. unexpected end of JSON input
+2024/07/11 00:22:17 
+2024/07/11 00:22:24 Nums [1 2 3]
+2024/07/11 00:22:24 Sum 6
+2024/07/11 00:22:24 Get https://www.youtube.com 200
+2024/07/11 00:22:50 
+2024/07/11 00:23:08 Can't read. json: cannot unmarshal string into Go value of type float64
+2024/07/11 13:45:59 
+2024/07/11 13:46:05 Can't read. expected newline
+2024/07/11 13:46:27 
+2024/07/11 13:46:35 Can't read. expected newline
+2024/07/11 13:47:12 
+2024/07/11 13:51:24 
+2024/07/11 13:51:26 Can't read. expected newline
+2024/07/11 14:26:53 
+2024/07/11 14:26:53 Can't read. unexpected end of JSON input
+2024/07/11 14:27:33 
+2024/07/11 14:27:51 
+2024/07/11 14:27:56 Can't read. unexpected end of JSON input
+2024/07/12 14:11:49 
+2024/07/12 14:11:50 Can't read. unexpected end of JSON input
+2024/07/12 16:34:48 Sum 33.5
+2024/07/12 16:34:48 Get https://www.youtube.com 200
+2024/07/12 16:37:18 Sum 33.5
+2024/07/12 16:37:18 Get https://www.youtube.com 200
+2024/07/12 16:38:17 Nums [1 2 3 4.5 23]
+2024/07/12 16:38:17 Sum 33.5
+2024/07/12 16:38:17 Get https://www.youtube.com 200
+2024/07/12 16:39:08 Nums [1 2 3 4.5 23]
+2024/07/12 16:39:08 Sum 33.5
+2024/07/12 16:39:08 Get https://www.youtube.com 200
+2024/07/12 16:39:42 Nums [1 2 3 4.5 23]
+2024/07/12 16:39:42 Sum 33.5
+2024/07/12 16:39:43 Get https://www.youtube.com 200
+2024/07/12 16:39:47 Nums [1 2 3 4.5 23]
+2024/07/12 16:39:47 Sum 33.5
+2024/07/12 16:39:47 Get https://www.youtube.com 200
+2024/07/12 16:40:37 Nums [1 2 3 4.5 23]
+2024/07/12 16:40:37 Sum 33.5
+2024/07/12 16:40:37 Get https://www.youtube.com 200
+2024/07/12 16:41:09 Nums [1 2 3 4.5 23]
+2024/07/12 16:41:09 Sum 33.5
+2024/07/12 16:41:09 Get https://www.youtube.com 200
+2024/07/12 18:29:29 Nums [1 2 3 4.5 23]
+2024/07/12 18:29:29 Sum 33.5
+2024/07/12 18:29:29 Get https://www.youtube.com 200
+2024/07/12 18:30:19 Nums [1 2 3 4.5 23]
+2024/07/12 18:30:19 Sum 33.5
+2024/07/12 18:30:19 Get https://www.youtube.com 200
+2024/07/12 18:41:44 Nums [1 2 3 4.5 23]
+2024/07/12 18:41:44 Sum 33.5
+2024/07/12 18:41:44 Get https://www.youtube.com 200
+2024/07/12 18:41:49 Nums [1 2 3 4.5 23]
+2024/07/12 18:41:49 Sum 33.5
+2024/07/12 18:41:49 Get https://www.youtube.com 200
+2024/07/12 19:09:18 Nums [1 2 3 4.5 23]
+2024/07/12 19:09:18 Sum 33.5
+2024/07/12 19:09:19 Get https://www.youtube.com 200
+2024/07/12 19:11:39 Nums [1 2 3 4.5 23]
+2024/07/12 19:11:39 Sum 33.5
+2024/07/12 19:11:39 Get https://www.youtube.com 200
+2024/07/12 19:12:19 Nums [1 2 3 4.5 23]
+2024/07/12 19:12:19 Sum 33.5
+2024/07/12 19:12:20 Get https://www.youtube.com 200
+2024/07/12 19:12:25 Nums [1 2 3 4.5 23]
+2024/07/12 19:12:25 Sum 33.5
+2024/07/12 19:12:25 Get https://www.youtube.com 200
+2024/07/12 19:12:42 Nums [1 2 3 4.5 23]
+2024/07/12 19:12:42 Sum 33.5
+2024/07/12 19:12:42 Get https://www.youtube.com 200
+2024/07/12 19:12:55 Nums [1 2 3 4.5 23]
+2024/07/12 19:12:55 Sum 33.5
+2024/07/12 19:12:55 Get https://www.youtube.com 200
+2024/07/12 19:13:09 Nums [1 2 3 4.5 23]
+2024/07/12 19:13:09 Sum 33.5
+2024/07/12 19:13:09 Get https://www.youtube.com 200
+2024/07/12 19:13:28 Nums [1 2 3 4.5 23]
+2024/07/12 19:13:28 Sum 33.5
+2024/07/12 19:13:28 Get https://www.youtube.com 200
+2024/07/12 19:13:33 Nums [1 2 3 4.5 23]
+2024/07/12 19:13:33 Sum 33.5
+2024/07/12 19:13:34 Get https://www.youtube.com 200
+2024/07/12 19:15:10 Nums [1 2 3 4.5 23]
+2024/07/12 19:15:10 Sum 33.5
+2024/07/12 19:15:10 Get https://www.youtube.com 200
+2024/07/12 19:15:15 Nums [1 2 3 4.5 23]
+2024/07/12 19:15:15 Sum 33.5
+2024/07/12 19:15:15 Get https://www.youtube.com 200
+2024/07/12 19:15:23 Nums [1 2 3 4.5 23]
+2024/07/12 19:15:23 Sum 33.5
+2024/07/12 19:15:23 Get https://www.youtube.com 200
+2024/07/12 19:15:56 Nums [1 2 3 4.5 23]
+2024/07/12 19:15:56 Sum 33.5
+2024/07/12 19:15:57 Get https://www.youtube.com 200
+2024/07/12 19:16:25 Nums [1 2 3 4.5 23]
+2024/07/12 19:16:25 Sum 33.5
+2024/07/12 19:16:26 Get https://www.youtube.com 200
+2024/07/12 19:16:37 Nums [1 2 3 4.5 23]
+2024/07/12 19:16:37 Sum 33.5
+2024/07/12 19:16:37 Get https://www.youtube.com 200
+2024/07/12 19:16:48 Nums [1 2 3 4.5 23]
+2024/07/12 19:16:48 Sum 33.5
+2024/07/12 19:16:48 Get https://www.youtube.com 200
+2024/07/12 19:17:16 Nums [1 2 3 4.5 23]
+2024/07/12 19:17:16 Sum 33.5
+2024/07/12 19:17:17 Get https://www.youtube.com 200
+2024/07/12 19:17:25 Nums [1 2 3 4.5 23]
+2024/07/12 19:17:25 Sum 33.5
+2024/07/12 19:17:26 Get https://www.youtube.com 200
+2024/07/12 19:17:54 Nums [1 2 3 4.5 23]
+2024/07/12 19:17:54 Sum 33.5
+2024/07/12 19:17:54 Get https://www.youtube.com 200
+2024/07/12 19:18:12 Nums [1 2 3 4.5 23]
+2024/07/12 19:18:12 Sum 33.5
+2024/07/12 19:18:12 Get https://www.youtube.com 200
+2024/07/12 19:19:11 Nums [1 2 3 4.5 23]
+2024/07/12 19:19:11 Sum 33.5
+2024/07/12 19:19:11 Get https://www.youtube.com 200
+2024/07/12 19:19:48 Nums [1 2 3 4.5 23]
+2024/07/12 19:19:48 Sum 33.5
+2024/07/12 19:19:49 Get https://www.youtube.com 200
+2024/07/12 19:23:20 Nums [1 2 3 4.5 23]
+2024/07/12 19:23:20 Sum 33.5
+2024/07/12 19:23:21 Get https://www.youtube.com 200
+2024/07/12 19:23:33 Nums [1 2 3 4.5 23]
+2024/07/12 19:23:33 Sum 33.5
+2024/07/12 19:23:33 Get https://www.youtube.com 200
+2024/07/12 19:24:07 Nums [1 2 3 4.5 23]
+2024/07/12 19:24:07 Sum 33.5
+2024/07/12 19:24:07 Get https://www.youtube.com 200
+2024/07/12 19:24:16 Nums [1 2 3 4.5 23]
+2024/07/12 19:24:16 Sum 33.5
+2024/07/12 19:24:16 Get https://www.youtube.com 200
+2024/07/12 19:24:48 Nums [1 2 3 4.5 23]
+2024/07/12 19:24:48 Sum 33.5
+2024/07/12 19:24:48 Get https://www.youtube.com 200
+2024/07/12 19:25:08 Nums [1 2 3 4.5 23]
+2024/07/12 19:25:08 Sum 33.5
+2024/07/12 19:25:08 Get https://www.youtube.com 200
+2024/07/12 19:30:27 Nums []
+2024/07/12 19:30:28 Can't read. unexpected end of JSON input
+2024/07/12 19:30:37 Nums []
+2024/07/12 19:30:37 Can't read. unexpected end of JSON input
+2024/07/12 19:30:43 Nums []
+2024/07/12 19:30:43 Can't read. unexpected end of JSON input
+2024/07/12 19:30:45 Nums []
+2024/07/12 19:30:45 Can't read. unexpected end of JSON input
+2024/07/12 19:30:47 Nums []
+2024/07/12 19:30:47 Can't read. unexpected end of JSON input
+2024/07/12 19:30:49 Nums []
+2024/07/12 19:30:49 Can't read. unexpected end of JSON input
+2024/07/12 19:30:50 Nums []
+2024/07/12 19:30:50 Can't read. unexpected end of JSON input
+2024/07/12 19:34:31 Nums []
+2024/07/12 19:34:31 Can't read. unexpected end of JSON input
+2024/07/12 19:34:43 Nums []
+2024/07/12 19:34:43 Can't read. unexpected end of JSON input
+2024/07/12 19:35:17 Nums []
+2024/07/12 19:35:17 Can't read. unexpected end of JSON input
+2024/07/12 19:36:26 Nums []
+2024/07/12 19:36:26 Can't read. unexpected end of JSON input
+2024/07/12 19:36:39 Nums []
+2024/07/12 19:36:39 Can't read. unexpected end of JSON input
+2024/07/12 19:38:01 Nums []
+2024/07/12 19:38:01 Can't read. unexpected end of JSON input
+2024/07/12 19:38:04 Nums []
+2024/07/12 19:38:04 Can't read. unexpected end of JSON input
+2024/07/12 19:38:25 Nums []
+2024/07/12 19:38:25 Can't read. unexpected end of JSON input
+2024/07/12 19:38:45 Nums []
+2024/07/12 19:38:45 Can't read. unexpected end of JSON input
+2024/07/12 19:55:16 Nums []
+2024/07/12 19:55:16 Can't read. unexpected end of JSON input
+2024/07/12 19:55:53 Nums []
+2024/07/12 19:55:53 Can't read. unexpected end of JSON input
+2024/07/12 19:56:30 Nums []
+2024/07/12 19:56:30 Can't read. unexpected end of JSON input
+2024/07/12 20:28:07 Nums []
+2024/07/12 20:28:07 Can't read. unexpected end of JSON input
+2024/07/12 20:28:38 Nums []
+2024/07/12 20:28:38 Can't read. unexpected end of JSON input
+2024/07/12 20:28:40 Nums []
+2024/07/12 20:28:40 Can't read. unexpected end of JSON input
+2024/07/12 20:28:47 Nums []
+2024/07/12 20:28:47 Can't read. unexpected end of JSON input
+2024/07/12 20:57:07 Nums []
+2024/07/12 20:57:07 Can't read. unexpected end of JSON input
+2024/07/12 20:57:23 Nums []
+2024/07/12 20:57:23 Can't read. unexpected end of JSON input
+2024/07/12 20:57:45 Nums []
+2024/07/12 20:57:45 Can't read. unexpected end of JSON input
+2024/07/12 20:57:52 Nums []
+2024/07/12 20:57:52 Can't read. unexpected end of JSON input
+2024/07/12 20:58:32 Nums []
+2024/07/12 20:58:32 Can't read. unexpected end of JSON input
+2024/07/12 21:00:19 Nums [1 2 3 4.5 23]
+2024/07/12 21:00:19 Sum 33.5
+2024/07/12 21:00:19 Get https://www.youtube.com 200
+2024/07/12 21:05:07 Nums []
+2024/07/12 21:05:07 Can't read. unexpected end of JSON input
+2024/07/12 21:05:17 Nums []
+2024/07/12 21:05:17 Can't read. invalid type: faaaile
+2024/07/12 23:44:38 Nums []
+2024/07/12 23:44:38 Can't read. invalid type: faaaile
+2024/07/12 23:45:03 Nums []
+2024/07/12 23:45:03 Can't read. invalid type: faaaile
+2024/07/12 23:45:24 Nums [1 2 3 4.5 23]
+2024/07/12 23:45:24 Sum 33.5
+2024/07/12 23:45:24 Get https://www.youtube.com 200
+2024/07/12 23:46:21 Nums []
+2024/07/12 23:46:21 Can't read. unexpected end of JSON input
+2024/07/12 23:47:16 Nums [1 2 3 4.5 23]
+2024/07/12 23:47:16 Sum 33.5
+2024/07/12 23:47:16 Get https://www.youtube.com 200
+2024/07/12 23:48:39 Nums [1 2 3 4.5 23]
+2024/07/12 23:48:39 Sum 33.5
+2024/07/12 23:48:39 Get https://www.youtube.com 200
+2024/07/12 23:49:15 Can't read. invalid type: std
+2024/07/12 23:49:22 Can't read. invalid type: std
+2024/07/12 23:49:34 Nums [1 2 3]
+2024/07/12 23:49:34 Sum 6
+2024/07/12 23:49:35 Get https://www.youtube.com 200
+2024/07/12 23:50:37 stdin numbers info config
+2024/07/12 23:50:47 Nums [1 2 3 4]
+2024/07/12 23:50:47 Sum 10
+2024/07/12 23:50:47 Get https://www.youtube.com 200
+2024/07/12 23:50:57 stdin numbers info config
+2024/07/12 23:51:04 Nums [1.4 1.6]
+2024/07/12 23:51:04 Sum 3
+2024/07/12 23:51:04 Get https://www.youtube.com 200
+2024/07/12 23:58:38 stdin numbers info config
+2024/07/12 23:58:48 Nums [1 2 3 5 1.5]
+2024/07/12 23:58:48 Sum 12.5
+2024/07/12 23:58:48 Get https://www.youtube.com 200
+2024/07/12 23:59:03 stdin numbers info config
+2024/07/12 23:59:07 Can't read. invalid character 'a' after top-level value
+2024/07/13 00:00:22 stdin numbers info config
+2024/07/13 00:00:27 Can't read. invalid character ',' after top-level value
+2024/07/13 00:00:36 stdin numbers info config
+2024/07/13 00:00:40 Can't read. invalid character ',' after top-level value
+2024/07/13 00:00:44 stdin numbers info config
+2024/07/13 00:00:47 Can't read. invalid character '2' after top-level value
+2024/07/13 00:01:39 stdin numbers info config
+2024/07/13 00:01:48 stdin numbers info config
+2024/07/13 00:02:04 stdin numbers info config
+2024/07/13 00:03:01 stdin numbers info config
+2024/07/13 00:03:03 Can't read. invalid character '2' after top-level value
+2024/07/13 00:03:14 stdin numbers info config
+2024/07/13 00:03:16 Can't read. unexpected end of JSON input
+2024/07/13 00:06:38 stdin numbers info config
+2024/07/13 00:06:42 Can't read. invalid character '2' after array element
+2024/07/13 00:06:47 stdin numbers info config
+2024/07/13 00:06:53 Nums [1 2]
+2024/07/13 00:06:53 Sum 3
+2024/07/13 00:06:53 Get https://www.youtube.com 200
+2024/07/13 00:09:03 stdin numbers info config
+2024/07/13 00:09:11 Nums [1 2 3]
+2024/07/13 00:09:11 Sum 6
+2024/07/13 00:09:11 Get https://www.youtube.com 200
+2024/07/13 00:09:31 stdin numbers info config
+2024/07/13 00:10:05 stdin numbers.json info.log config.json
+2024/07/13 00:10:07 Can't read. unexpected end of JSON input
+2024/07/13 00:10:27 file numbers.json info.log config.json
+2024/07/13 00:10:28 Nums [1 2 3 4.5 23]
+2024/07/13 00:10:28 Sum 33.5
+2024/07/13 00:10:28 Get https://www.youtube.com 200
+2024/07/13 00:21:29 file numbers.json info.log config.json
+2024/07/13 00:21:29 Nums [1 2 3 4.5 23]
+2024/07/13 00:21:29 Sum 33.5
+2024/07/13 00:21:29 Non-200 json: cannot unmarshal object into Go value of type string
+2024/07/13 00:33:52 file numbers.json info.log config.json
+2024/07/13 00:33:52 Nums [1 2 3 4.5 23]
+2024/07/13 00:33:52 Sum 33.5
+2024/07/13 02:05:27 file numbers.json info.log config.json
+2024/07/13 02:05:27 Nums [1 2 3 4.5 23]
+2024/07/13 02:05:27 Sum 33.5
+2024/07/13 02:08:01 file numbers.json info.log config.json
+2024/07/13 02:08:01 Nums [1 2 3 4.5 23]
+2024/07/13 02:08:01 Sum 33.5
+2024/07/13 02:08:01 Get https://www.youtube.com
+2024/07/13 02:10:35 file numbers.json info.log config.json
+2024/07/13 02:10:35 Nums [1 2 3 4.5 23]
+2024/07/13 02:10:35 Sum 33.5
+2024/07/13 02:10:36 Get https://www.youtube.com
+2024/07/13 02:10:41 file numbers.json info.log config.json
+2024/07/13 02:10:41 Nums [1 2 3 4.5 23]
+2024/07/13 02:10:41 Sum 33.5
+2024/07/13 02:10:41 Non-200 failed to make GET request: Get "https://www.youtaube.com": dial tcp: lookup www.youtaube.com: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2024/07/13 02:38:38 file numbers.json info.log asd.json
+2024/07/13 02:38:38 Nums [1 2 3 4.5 23]
+2024/07/13 02:38:38 Sum 33.5
+2024/07/13 02:40:12 file numbers.json info.log asd.json
+2024/07/13 02:40:12 Nums [1 2 3 4.5 23]
+2024/07/13 02:40:12 Sum 33.5
+2024/07/13 02:40:12 Failed read failed to read config file: open asd.json: The system cannot find the file specified.
+2024/07/13 02:40:12 Non-200 failed to make GET request: Get "": unsupported protocol scheme ""
+2024/07/13 02:40:32 file numbers.json info.log asd.json
+2024/07/13 02:40:32 Nums [1 2 3 4.5 23]
+2024/07/13 02:40:32 Sum 33.5
+2024/07/13 02:40:32 Failed read failed to read config file: open asd.json: The system cannot find the file specified.
+2024/07/13 02:41:00 file numbers.json info.log asd.json
+2024/07/13 02:41:00 Failed read failed to read config file: open asd.json: The system cannot find the file specified.
+2024/07/13 02:42:38 file numbers.json info.log config.json
+2024/07/13 02:42:39 Non-200 failed to make GET request: Get "https://www.youtaube.com": dial tcp: lookup www.youtaube.com: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2024/07/13 02:43:58 file numbers.json info.log config.json
+2024/07/13 02:43:58 Non-200 Get "https://www.youtaube.com": dial tcp: lookup www.youtaube.com: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2024/07/13 02:51:10 file numbers.json info.log config.json
+2024/07/13 02:51:10 Non-200 Get "https://www.youtaube.com": dial tcp: lookup www.youtaube.com: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2024/07/13 02:51:20 file numbers.json info.log config.json
+2024/07/13 02:51:21 Nums [1 2 3 4.5 23]
+2024/07/13 02:51:21 Sum 33.5
+2024/07/13 02:51:21 Get È https://www.youtube.com
+2024/07/13 02:53:30 file numbers.json info.log config.json
+2024/07/13 02:53:30 Nums [1 2 3 4.5 23]
+2024/07/13 02:53:30 Sum 33.5
+2024/07/13 02:53:30 Get %!s(int32=200) https://www.youtube.com
+2024/07/13 02:53:38 file numbers.json info.log config.json
+2024/07/13 02:53:38 Nums [1 2 3 4.5 23]
+2024/07/13 02:53:38 Sum 33.5
+2024/07/13 02:53:38 Get %!r(int32=200) https://www.youtube.com
+2024/07/13 02:54:47 file numbers.json info.log config.json
+2024/07/13 02:54:47 Nums [1 2 3 4.5 23]
+2024/07/13 02:54:47 Sum 33.5
+2024/07/13 02:54:47 Get 'È' https://www.youtube.com
+2024/07/13 02:56:50 file numbers.json info.log config.json
+2024/07/13 02:56:50 Nums [1 2 3 4.5 23]
+2024/07/13 02:56:50 Sum 33.5
+2024/07/13 02:56:50 Get %!s(uint8=200) https://www.youtube.com
+2024/07/13 02:56:58 file numbers.json info.log config.json
+2024/07/13 02:56:58 Nums [1 2 3 4.5 23]
+2024/07/13 02:56:58 Sum 33.5
+2024/07/13 02:56:58 Get 11001000 https://www.youtube.com
+2024/07/13 02:57:50 file numbers.json info.log config.json
+2024/07/13 02:57:50 Nums [1 2 3 4.5 23]
+2024/07/13 02:57:50 Sum 33.5
+2024/07/13 02:57:50 Get 'È' https://www.youtube.com
+2024/07/13 02:58:28 file numbers.json info.log config.json
+2024/07/13 02:58:28 Nums [1 2 3 4.5 23]
+2024/07/13 02:58:28 Sum 33.5
+2024/07/13 02:58:28 Get https://www.youtube.com%!(EXTRA uint8=200)
+2024/07/13 02:59:37 file numbers.json info.log config.json
+2024/07/13 02:59:37 Nums [1 2 3 4.5 23]
+2024/07/13 02:59:37 Sum 33.5
+2024/07/13 02:59:37 Get https://www.youtube.com c8
+2024/07/13 02:59:50 file numbers.json info.log config.json
+2024/07/13 02:59:50 Nums [1 2 3 4.5 23]
+2024/07/13 02:59:50 Sum 33.5
+2024/07/13 02:59:50 Get https://www.youtube.com %!u(uint8=200)
+2024/07/13 03:01:05 file numbers.json info.log config.json
+2024/07/13 03:01:05 Nums [1 2 3 4.5 23]
+2024/07/13 03:01:05 Sum 33.5
+2024/07/13 03:01:05 Get https://www.youtube.com 200
+2024/07/13 03:01:16 file numbers.json info.log config.json
+2024/07/13 03:01:16 Nums [1 2 3 4.5 23]
+2024/07/13 03:01:16 Sum 33.5
+2024/07/13 03:01:16 Get https://www.youtube.com with code 200
+2024/07/13 03:01:46 file numbers.json info.log asd.json
+2024/07/13 03:01:46 Failed read failed to read config file: open asd.json: The system cannot find the file specified.
+2024/07/13 03:02:39 file numbers.json info.log config.json
+2024/07/13 03:02:39 Get "https://www.youtaube.com": dial tcp: lookup www.youtaube.com: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2024/07/13 03:03:39 file numbers.json info.log config.json
+2024/07/13 03:03:39 Get "https://www.youtube.cm": dial tcp: lookup www.youtube.cm: no such host
+2024/07/13 03:06:46 file numbers.json info.log config.json
+2024/07/13 03:06:47 Get "https://www.youtube.cm": dial tcp: lookup www.youtube.cm: no such host
+2024/07/13 03:07:03 file numbers.json info.log config.json
+2024/07/13 03:07:10 Nums [1 2 3 4.5 23]
+2024/07/13 03:07:10 Sum 33.5
+2024/07/13 03:07:10 Get https://www.yo1utube.com with code 200
+2024/07/13 03:07:13 file numbers.json info.log config.json
+2024/07/13 03:07:15 Nums [1 2 3 4.5 23]
+2024/07/13 03:07:15 Sum 33.5
+2024/07/13 03:07:15 Get https://www.yo1utube.com with code 200
+2024/07/13 03:07:56 file numbers.json info.log config.json
+2024/07/13 03:07:57 Get "https://www.yo1112utube.com": dial tcp: lookup www.yo1112utube.com: no such host
+2024/07/13 03:08:31 file numbers.json info.log config.json
+2024/07/13 03:08:31 Get "https://www.youtaube.com": dial tcp: lookup www.youtaube.com: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2024/07/13 16:34:17 file numbers.json info.log config.json
+2024/07/13 16:34:17 Get "https://www.youtaube.com": dial tcp: lookup www.youtaube.com: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2024/07/13 16:34:43 f numb.json info.log config.json
+2024/07/13 16:34:43 Can't read. invalid type: f
+2024/07/13 16:34:54 file numb.json info.log config.json
+2024/07/13 16:34:54 Can't read. open numb.json: The system cannot find the file specified.
+2024/07/13 16:35:06 file numbers.json info.log config.json
+2024/07/13 16:35:06 Get "https://www.youtaube.com": dial tcp: lookup www.youtaube.com: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2024/07/13 16:35:17 file n.json info.log config.json
+2024/07/13 16:35:17 Can't read. open n.json: The system cannot find the file specified.
+2024/07/14 17:44:32 file text.json info.log config.json
+2024/07/14 17:44:32 Get "https://www.youtaube.com": dial tcp: lookup www.youtaube.com: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2024/07/14 17:45:03 file text.json info.log config.json
+2024/07/14 17:45:03 Nums [1 2 3 4.5 23]
+2024/07/14 17:45:03 Sum 33.5
+2024/07/14 17:45:03 Get https://www.youtube.com with code 200
+2024/07/20 14:10:01 file text.json info.log config.json
+2024/07/20 14:10:01 Nums [1 2 3 4.5 23]
+2024/07/20 14:10:01 Sum 33.5
+2024/07/20 14:10:01 Get https://www.youtube.com with code 200
+2024/07/20 14:20:30 file text.json info.log config.json
+2024/07/20 14:20:30 Nums [1 2 3 4.5 23]
+2024/07/20 14:20:30 Sum 33.5
+2024/07/20 14:20:30 Get https://www.youtube.com with code 200
+2024/07/20 14:24:36 file text.json info.log config.json
+2024/07/20 14:24:36 Nums [1 2 3 4.5 23]
+2024/07/20 14:24:36 Sum 33.5
+2024/07/20 14:24:36 Get https://www.youtube.com with code 200
+2024/07/20 14:28:13 file text.json info.log config.json
+2024/07/20 14:28:13 Nums [1 2 3 4.5 23]
+2024/07/20 14:28:13 Sum 33.5
+2024/07/20 14:28:13 Get https://www.youtube.com with code 200
+2024/07/20 14:31:52 file text.json info.log output.json%!(EXTRA string=config)
+2024/07/20 14:31:53 Nums [1 2 3 4.5 23]
+2024/07/20 14:31:53 Sum 33.5
+2024/07/20 14:31:53 Get https://www.youtube.com with code 200
+2024/07/20 14:32:19 file text.json info.log output config.json
+2024/07/20 14:32:19 Nums [1 2 3 4.5 23]
+2024/07/20 14:32:19 Sum 33.5
+2024/07/20 14:32:19 Get https://www.youtube.com with code 200
+2024/07/20 14:47:17 file text.json info.log output config.json
+2024/07/20 14:47:17 Nums [1 2 3 4.5 23]
+2024/07/20 14:47:17 Sum 33.5
+2024/07/20 14:47:17 Get https://www.youtube.com with code 200
+2024/07/20 14:57:08 file text.json info.log output config.json
+2024/07/20 14:57:08 Nums [1 2 3 4.5 23]
+2024/07/20 14:57:08 Sum 33.5
+2024/07/20 14:57:08 Get https://www.youtube.com with code 200
+2024/07/20 15:02:47 file text.json info.log output config.json
+2024/07/20 15:02:47 Nums [1 2 3 4.5 23]
+2024/07/20 15:02:47 Sum 33.5
+2024/07/20 15:02:47 Get https://www.youtube.com with code 200
+2024/07/20 15:05:40 file text.json info.log output config.json
+2024/07/20 15:05:40 Nums [1 2 3 4.5 23]
+2024/07/20 15:05:40 Sum 33.5
+2024/07/20 15:05:40 Get https://www.youtube.com with code 200
+2024/07/20 15:07:05 file text.json info.log output config.json
+2024/07/20 15:07:06 Nums [1 2 3 4.5 23]
+2024/07/20 15:07:06 Sum 33.5
+2024/07/20 15:07:06 Get https://www.youtube.com with code 200
+2024/07/20 15:07:13 file text.json info.log output config.json
+2024/07/20 15:07:13 Nums [1 2 3 4.5 23]
+2024/07/20 15:07:13 Sum 33.5
+2024/07/20 15:07:13 Get https://www.youtube.com with code 200

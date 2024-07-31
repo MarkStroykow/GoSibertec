@@ -1,0 +1,169 @@
+INFO	2024/07/10 10:20:00 17.2
+3 4.5 6.7]
+INFO	2024/07/10 10:20:55 [1 2 3 4.5 6.7]
+INFO	2024/07/10 10:20:55 17.2
+INFO	2024/07/10 10:20:59 [1 2 3 4.5 6.7]
+INFO	2024/07/10 10:20:59 17.2
+INFO	2024/07/10 10:22:08 json: cannot unmarshal string into Go value of type float64
+INFO	2024/07/10 10:22:08 0
+2024/07/10 10:22:57 json: cannot unmarshal string into Go value of type float64
+2024/07/10 10:22:57 0
+2024/07/10 10:23:11 [1 2 3 4.5 123]
+2024/07/10 10:23:11 133.5
+2024/07/10 10:23:27 open text1.json: The system cannot find the file specified.
+2024/07/10 10:23:27 0
+2024/07/10 10:23:38 open text1.json: The system cannot find the file specified.
+2024/07/10 10:23:38 0
+2024/07/10 10:25:29 [1 2 3 4.5 123]
+2024/07/10 10:25:30 133.5
+2024/07/10 10:26:58 Чиселки [1 2 3 4.5 123]
+2024/07/10 10:26:58 133.5
+2024/07/10 10:28:27 Чиселки [1 2 3 4.5 123]
+2024/07/10 10:28:28 Sum [1 2 3 4.5 123]
+2024/07/10 10:28:44 Nums [1 2 3 4.5 123]
+2024/07/10 10:28:44 Sum [1 2 3 4.5 123]
+2024/07/10 10:28:59 Nums [1 2 3 4.5 123]
+2024/07/10 10:28:59 Sum 133.5
+2024/07/10 10:29:45 json: cannot unmarshal string into Go value of type float64
+2024/07/10 10:29:45 Sum 0
+2024/07/10 10:33:02 json: cannot unmarshal string into Go value of type float64
+2024/07/10 10:33:02 Sum 0
+2024/07/10 10:33:05 json: cannot unmarshal string into Go value of type float64
+2024/07/10 10:33:13 json: cannot unmarshal string into Go value of type float64
+2024/07/10 10:33:30 Nums [1 2 3 4.5 23]
+2024/07/10 10:33:30 Sum 33.5
+2024/07/10 10:35:34 Nums [1 2 3 4.5 23]
+2024/07/10 10:35:34 Sum 33.5
+2024/07/10 10:35:44 text.json invalid character '`' looking for beginning of value
+2024/07/10 10:36:29 text.json open tet.json: The system cannot find the file specified.
+2024/07/10 10:38:04 Can't read invalid character '`' looking for beginning of value
+2024/07/10 10:38:40 Can't read JSON: invalid character '`' looking for beginning of value
+2024/07/10 10:38:49 Nums [1 2 3 4.5 23]
+2024/07/10 10:38:49 Sum 33.5
+2024/07/10 10:42:48 Nums [1 2 3 4.5 23]
+2024/07/10 10:42:48 Sum 33.5
+2024/07/10 10:42:48  Get https://www.youtube.com 200
+2024/07/10 10:43:04 Nums [1 2 3 4.5 23]
+2024/07/10 10:43:04 Sum 33.5
+2024/07/10 10:43:04 Error Get "https://www.youtbe.com": dial tcp: lookup www.youtbe.com: no such host
+2024/07/10 10:43:31 Nums [1 2 3 4.5 23]
+2024/07/10 10:43:31 Sum 33.5
+2024/07/10 10:44:03 Nums [1 2 3 4.5 23]
+2024/07/10 10:44:03 Sum 33.5
+2024/07/10 10:44:03 204 Error Get "https://www.youtbe.com": dial tcp: lookup www.youtbe.com: no such host
+2024/07/10 10:44:56 Nums [1 2 3 4.5 23]
+2024/07/10 10:44:56 Sum 33.5
+2024/07/10 10:44:56 404 Error Get "https://www.youtbe.com": dial tcp: lookup www.youtbe.com: no such host
+2024/07/10 10:45:41 Nums [1 2 3 4.5 23]
+2024/07/10 10:45:41 Sum 33.5
+2024/07/10 10:45:41 Error Get "https://www.youtbe.com": dial tcp: lookup www.youtbe.com: no such host
+2024/07/10 10:45:57 Nums [1 2 3 4.5 23]
+2024/07/10 10:45:57 Sum 33.5
+2024/07/10 10:45:57 Get https://www.youtube.com 200
+2024/07/10 10:47:48 Nums [1 2 3 4.5 23]
+2024/07/10 10:47:48 Sum 33.5
+2024/07/10 10:47:48 Get https://www.youtube.com 200
+2024/07/10 10:48:55 Nums [1 2 3 4.5 23]
+2024/07/10 10:48:55 Sum 33.5
+2024/07/10 10:48:55 Get https://www.youtube.com 200
+2024/07/10 10:49:09 Can't read JSON: invalid character '`' looking for beginning of value
+2024/07/10 10:49:20 Can't read JSON: json: cannot unmarshal string into Go value of type float64
+2024/07/10 10:51:55 Start
+2024/07/10 10:51:55 Nums [1 2 3 4.5 23]
+2024/07/10 10:51:55 Sum 33.5
+2024/07/10 10:51:55 Get https://www.youtube.com 200
+2024/07/10 10:52:12 Start
+2024/07/10 10:52:12 Nums [1 2 3 4.5 23]
+2024/07/10 10:52:12 Sum 33.5
+2024/07/10 10:52:12 Get https://www.youtube.com 200
+2024/07/10 10:52:12 End
+2024/07/10 10:52:21 Start
+2024/07/10 10:52:21 Nums [1 2 3 4.5 23]
+2024/07/10 10:52:21 Sum 33.5
+2024/07/10 10:52:21 Get https://www.youtube.com 200
+2024/07/10 10:52:21 Exit
+2024/07/10 10:52:38 Start
+2024/07/10 10:52:38 Nums [1 2 3 4.5 23]
+2024/07/10 10:52:38 Sum 33.5
+2024/07/10 10:52:39 Get https://www.youtube.com 200
+2024/07/10 10:52:39 Exit
+2024/07/10 10:53:08 Start
+2024/07/10 10:53:09 Nums [1 2 3 4.5 23]
+2024/07/10 10:53:09 Sum 33.5
+2024/07/10 10:53:09 Get https://www.youtube.com 200
+2024/07/10 10:53:09 Exit
+2024/07/10 10:53:13 Start
+2024/07/10 10:53:13 Nums [1 2 3 4.5 23]
+2024/07/10 10:53:13 Sum 33.5
+2024/07/10 10:53:13 Get https://www.youtube.com 200
+2024/07/10 10:53:13 Exit
+2024/07/10 10:56:35 Start
+2024/07/10 10:56:35 Nums [1 2 3 4.5 23]
+2024/07/10 10:56:35 Sum 33.5
+2024/07/10 10:56:35 Get https://www.youtube.com 200
+2024/07/10 10:56:35 Exit
+2024/07/10 10:57:17 Start
+2024/07/10 10:57:17 Nums [1 2 3 4.5 23]
+2024/07/10 10:57:17 Sum 33.5
+2024/07/10 10:57:17 Get https://www.youtube.com 200
+2024/07/10 10:57:17 Exit
+2024/07/10 10:57:50 
+2024/07/10 10:57:50 Nums [1 2 3 4.5 23]
+2024/07/10 10:57:50 Sum 33.5
+2024/07/10 10:57:50 Get https://www.youtube.com 200
+2024/07/10 11:06:43 
+2024/07/10 11:06:43 Nums [1 2 3 4.5 23]
+2024/07/10 11:06:43 Sum 33.5
+2024/07/10 11:06:43 Get https://www.youtube.com 200
+2024/07/10 11:06:49 
+2024/07/10 11:06:49 Nums [1 2 3 4.5 23]
+2024/07/10 11:06:49 Sum 33.5
+2024/07/10 11:06:49 Non-200 Get "https://www.youtub.com": dial tcp: lookup www.youtub.com: no such host
+2024/07/10 11:06:59 
+2024/07/10 11:06:59 Nums [1 2 3 4.5 23]
+2024/07/10 11:06:59 Sum 33.5
+2024/07/10 11:06:59 Get https://www.youtube.com 200
+2024/07/10 11:10:39 
+2024/07/10 11:10:39 Nums [1 2 3 4.5 23]
+2024/07/10 11:10:39 Sum 33.5
+2024/07/10 11:10:39 Get https://www.youtube.com 200
+2024/07/20 14:36:26 
+2024/07/20 14:36:26 Nums [1 2 3 4.5 23]
+2024/07/20 14:36:26 Sum 33.5
+2024/07/20 14:36:26 Get https://www.youtube.com 200
+2024/07/20 14:39:52 
+2024/07/20 14:39:52 Nums [1 2 3 4.5 23]
+2024/07/20 14:39:52 Sum 33.5
+2024/07/20 14:39:52 Get https://www.youtube.com 200
+2024/07/20 14:40:14 
+2024/07/20 14:40:14 Nums [1 2 3 4.5 23]
+2024/07/20 14:40:14 Sum 33.5
+2024/07/20 14:40:14 Get https://www.youtube.com 200
+2024/07/20 14:40:24 
+2024/07/20 14:40:24 Nums [1 2 3 4.5 23]
+2024/07/20 14:40:24 Sum 33.5
+2024/07/20 14:40:24 Get https://www.youtube.com 200
+2024/07/20 14:40:50 
+2024/07/20 14:40:51 Nums [1 2 3 4.5 23]
+2024/07/20 14:40:51 Sum 33.5
+2024/07/20 14:40:51 Get https://www.youtube.com 200
+2024/07/20 14:46:27 
+2024/07/20 14:46:27 Nums [1 2 3 4.5 23]
+2024/07/20 14:46:27 Sum 33.5
+2024/07/20 14:46:27 Get https://www.youtube.com 200
+2024/07/20 14:47:01 
+2024/07/20 14:47:02 Nums [1 2 3 4.5 23]
+2024/07/20 14:47:02 Sum 33.5
+2024/07/20 14:47:02 Get https://www.youtube.com 200
+2024/07/20 14:57:18 
+2024/07/20 14:57:18 Nums [1 2 3 4.5 23]
+2024/07/20 14:57:18 Sum 33.5
+2024/07/20 14:57:18 Get https://www.youtube.com 200
+2024/07/20 14:59:05 
+2024/07/20 14:59:05 Can't read JSON: open tet.json: The system cannot find the file specified.
+2024/07/20 15:08:00 
+2024/07/20 15:08:00 Can't read JSON: open tet.json: The system cannot find the file specified.
+2024/07/20 15:08:27 
+2024/07/20 15:08:27 Nums [1 2 3 4.5 23]
+2024/07/20 15:08:27 Sum 33.5
+2024/07/20 15:08:27 Get https://www.youtube.com 200
